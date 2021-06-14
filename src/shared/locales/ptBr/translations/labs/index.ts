@@ -8,8 +8,8 @@ export default {
       cancel: 'Cancelar Laboratório',
       complete: 'Completar Laboratório',
       error: {
-        unableToRequest: 'Impossibilidade de criar um novo pedido de laboratório.',
-        unableToComplete: 'Impossibilidade de completar o pedido de laboratório.',
+        unableToRequest: 'Não foi possível criar um novo pedido de laboratório.',
+        unableToComplete: 'Não foi possível completar o pedido de laboratório.',
         typeRequired: 'O tipo é necessário.',
         resultRequiredToComplete: 'O resultado é necessário para completar.',
       },

@@ -26,7 +26,7 @@ export default {
     relatedPerson: 'Pessoa Relacionada',
     relatedPersons: {
       error: {
-        unableToAddRelatedPerson: 'Impossibilidade de adicionar nova pessoa relacionadas.',
+        unableToAddRelatedPerson: 'Não foi possível adicionar nova pessoa relacionadas.',
         relatedPersonRequired: 'Pessoa relacionada é necessária.',
         relationshipTypeRequired: 'Tipo de relacionamento é necessário.',
       },
@@ -48,7 +48,7 @@ export default {
       new: 'Adicionar alergia',
       error: {
         nameRequired: 'Nome da alergia é necessário.',
-        unableToAdd: 'Impossibilidade de adicionar alergia.',
+        unableToAdd: 'Não foi possível adicionar alergia.',
       },
       warning: {
         noAllergies: 'Sem alergias',
@@ -80,7 +80,7 @@ export default {
       },
       error: {
         noteRequired: 'Uma nota é necessário.',
-        unableToAdd: 'Impossibilidade adicionar uma nova nota.',
+        unableToAdd: 'Não foi possível adicionar uma nova nota.',
       },
       addNoteAbove: 'Adicione uma nota utilizando o botão acima.',
     },
@@ -88,7 +88,7 @@ export default {
       label: 'Remédios',
       new: 'Adicionar novo medicamento',
       warning: {
-        noMedications: 'Nomejikachion s',
+        noMedications: 'Sem Medicamento',
       },
       noMedicationsMessage: 'Nenhum pedido de medicamentos para esta pessoa.',
     },
